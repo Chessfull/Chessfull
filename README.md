@@ -1,6 +1,9 @@
-## Hi there 👋 Welcome to my page :blush:
+<a href="https://github.com/Chessfull" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chessfull&theme=radical" style="width: 600px; box-shadow: 0 0 0 4px #fff; margin-right: 20px;" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chessfull&theme=radical" style="height: 170px; width: 300px;" />
+</a>
 
-<a href="https://github.com/Chessfull"><img height="150px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chessfull&theme=radical" /><!-- wi*quL3fcV --><img height="150px" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chessfull&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+
 
  
 

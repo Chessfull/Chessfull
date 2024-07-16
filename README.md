@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my page :blush:
 
-<img src="https://github.com/adamalston/adamalston/raw/master/profile.gif" alt="Header">
+![Mert's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chessfull&custom_title=Chess%20Full's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <!--
 **Chessfull/Chessfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

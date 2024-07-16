@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my page!
+## Hi there 👋 Welcome to my page <i class="fa-brands fa-github"></i>
 
 <!--
 **Chessfull/Chessfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

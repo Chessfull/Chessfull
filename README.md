@@ -1,5 +1,7 @@
 ## Hi there 👋 Welcome to my page :blush:
 
+<img src="https://github.com/adamalston/adamalston/raw/master/profile.gif" alt="Header">
+
 <!--
 **Chessfull/Chessfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

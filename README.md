@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my page!
 
-<p>Welcome to my page! </br> I'm Mert/></p>
+<p>Trail </p>
 
 <!--
 **Chessfull/Chessfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 <a href="https://github.com/Chessfull" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chessfull&theme=radical" style="width: 600px; box-shadow: 0 0 0 4px #fff; margin-right: 20px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chessfull&theme=radical" style="width: 600px; box-shadow: 0 0 0 4px #fff; margin-right: 5px;" />
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chessfull&theme=radical" style="height: 170px; width: 300px;" />
 </a>
 

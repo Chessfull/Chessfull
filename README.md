@@ -1,7 +1,5 @@
 ## Hi there 👋 Welcome to my page!
 
-<h4> Trail </h4>
-
 <!--
 **Chessfull/Chessfull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,7 +17,7 @@ I'm fully committed to learning software architecture and philosophy in the most
 
 <!-- My link.tr direction  -->
 <p align="center">
-    <a href="https://linktr.ee/mert_topcu">「 For my background and more about me 」</a>
+    <a href="https://linktr.ee/mert_topcu" target="_blank">「 For my background and more about me 」</a>
 </p>
 
 ### :incoming_envelope: Contact Information :incoming_envelope:

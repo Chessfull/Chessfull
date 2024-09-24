@@ -20,16 +20,24 @@ I'm fully committed to learning software architecture and philosophy in the most
     <a href="https://linktr.ee/mert_topcu">「 For my background and more about me 」</a>
 </p>
 
-<!-- Github Api Statistics 
-<div align="center">
+### :incoming_envelope: Contact Information :incoming_envelope:
+
+For any questions or further information, please don't hesitate to contact me :pray:
+
+Email: merttopcu.dev@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mert-topcu/
+
+
+<!--Github Api Statistics 
+
     <a href="https://github.com/Chessfull" style="flex: 1; text-align: center;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chessfull&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"style="max-height: 10px; width: 40%;">
     </a>
-    <a href="https://github.com/Chessfull" style="flex: 1; text-align: center;">
+<a href="https://github.com/Chessfull" style="flex: 1; text-align: center;">
         <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Chessfull&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Top Languages" height="130px" width= 40%;>
-    </a>
-</div>
- -->
+    </a> -->
+
 
 
 

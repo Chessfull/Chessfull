@@ -38,6 +38,9 @@ I'm fully committed to learning software architecture and philosophy in the most
 <a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> </a> 
 -->
 
+<h3 align="center">Repository Organizers</h3>
+[.NET Organizer](https://github.com/users/Chessfull/projects/3/views/1).
+[Frontend Organizer](https://github.com/users/Chessfull/projects/4/views/1).
     
 <!-- Contact information part  -->
 ### :incoming_envelope: Contact Information :incoming_envelope:

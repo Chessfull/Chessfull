@@ -3,10 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2200&pause=0&color=E8765C&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hey+there!;I+am+Mert.+Pleasure+to+having+you!" width="70%" />
 
 <!-- Bio  -->
+<!--
 <p align="center">
 I'm currently learning and improving myself at the Patika+ Bootcamp💼
 </p>
-
+-->
 <p align="center">
 I'm fully committed to learning software architecture and philosophy in the most comprehensive way possible 💻
 </p>

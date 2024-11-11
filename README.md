@@ -48,7 +48,12 @@ I'm fully committed to learning software architecture and philosophy in the most
 
 [.NET Organizer](https://github.com/users/Chessfull/projects/3/views/1)
 
+[Node.js Organizer](https://github.com/users/Chessfull/projects/5)
+
 [Frontend Organizer](https://github.com/users/Chessfull/projects/4/views/1)
+
+
+
     
 <!-- Contact information part  -->
 ### :incoming_envelope: Contact Information :incoming_envelope:

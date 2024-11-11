@@ -64,6 +64,8 @@ Email: merttopcu.dev@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/mert-topcu/
 
+Happy Coding ❤️
+
 
 <!--Github Api Statistics 
 

@@ -22,7 +22,7 @@ I'm fully committed to learning software architecture and philosophy in the most
 </p>
 
 
-<!-- Technology icons part  
+<!-- Technology icons part -->
 <h3 align="center">Technologies</h3>
 <p align="center"> 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
@@ -34,7 +34,9 @@ I'm fully committed to learning software architecture and philosophy in the most
 <a href="https://nodejs.org/en" target="_blank" rel=”noopener”> <img src="https://encore.dev/assets/resources/nodejs_frameworks_cover.png" alt="node.js" width="33" height="30"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel=”noopener”> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="30" height="30"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
--->
+
+
+<!--
 <h3 align="center">Technologies</h3>    
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -47,11 +49,7 @@ I'm fully committed to learning software architecture and philosophy in the most
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-
-
-
+-->
 
 <h3 align="center">Repository Organizers</h3>
 

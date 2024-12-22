@@ -29,6 +29,9 @@ I'm fully committed to learning software architecture and philosophy in the most
 <img src="https://encore.dev/assets/resources/nodejs_frameworks_cover.png" alt="node.js" width="33" height="30"/>
 <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="30" height="30"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
+<img src="https://e7.pngegg.com/pngimages/219/411/png-clipart-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-thumbnail.png" alt="git" width="30" height="30"/>
+<img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" alt="git" width="30" height="30"/>
+<img src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Redis_Logo_01.png" alt="git" width="30" height="30"/>
 
 <h3 align="center">Repository Organizers</h3>
 

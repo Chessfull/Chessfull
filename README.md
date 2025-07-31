@@ -4,7 +4,7 @@
 
 <!-- Bio  -->
 <p align="center">
-As a full-stack developer, I'm fully committed to learning software architecture and philosophy in the most comprehensive way possible 💻
+As a full-stack developer, committed to learning software architecture and philosophy in the most comprehensive way possible 💻
 </p>
 
 <p align="center">

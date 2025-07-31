@@ -16,6 +16,8 @@ I'm fully committed to learning software architecture and philosophy in the most
     <a href="https://linktr.ee/mert_topcu" target="_blank">「 For my background and more about me 」</a>
 </p>
 
+---
+
 <!-- Technology icons part -->
 <h3 align="center">Technology Stack</h3>
 <p align="center">
@@ -38,20 +40,22 @@ I'm fully committed to learning software architecture and philosophy in the most
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
+---
+
 <h3 align="center">Development Portfolio</h3>
 
 <div align="center">
 
-### ⚡ [Backend Development | Node.js & NestJS](https://github.com/users/Chessfull/projects/3)
+### ⚡ [Backend Development | Node.js & NestJS](https://github.com/users/Chessfull/projects/5)
 *Modern JavaScript/TypeScript backend development with scalable APIs and real-time systems*
 
 ### 🔧 [Backend Development | .NET Ecosystem](https://github.com/users/Chessfull/projects/3)
 *Enterprise-grade applications, Web APIs, microservices architecture*
 
-### 🎨 [Frontend Development | React & Next.js](https://github.com/users/Chessfull/projects/3)
+### 🎨 [Frontend Development | React & Next.js](https://github.com/users/Chessfull/projects/4)
 *Contemporary frontend development with TypeScript and modern UI/UX*
 
-### 🎓 [Professional Growth | Bootcamp & Learning Journey](https://github.com/users/Chessfull/projects/3)
+### 🎓 [Professional Growth | Bootcamp & Learning Journey](https://github.com/users/Chessfull/projects/6)
 *Structured learning through intensive bootcamps and continuous skill development*
 
 </div>

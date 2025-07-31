@@ -16,42 +16,57 @@ I'm fully committed to learning software architecture and philosophy in the most
     <a href="https://linktr.ee/mert_topcu" target="_blank">「 For my background and more about me 」</a>
 </p>
 
-
 <!-- Technology icons part -->
-<h3 align="center">Technologies</h3>
-<p align="center"> 
-<!-- <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/>-->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" alt="dotnetcore" width="30" height="30"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sql-server-icon.png" alt="microsoftsql" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919832.png" alt="typescript" width="30" height="30"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="30"/> 
-<img src="https://encore.dev/assets/resources/nodejs_frameworks_cover.png" alt="node.js" width="33" height="30"/>
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-<img src="https://e7.pngegg.com/pngimages/219/411/png-clipart-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-thumbnail.png" alt="git" width="30" height="30"/>
-<img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" alt="git" width="30" height="30"/>
-<img src="https://dwglogo.com/wp-content/uploads/2017/12/1100px_Redis_Logo_01.png" alt="git" width="30" height="30"/>
+<h3 align="center">Technology Stack</h3>
+<p align="center">
+<!-- Backend Technologies -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+<!-- Frontend Technologies -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+<!-- Databases & Tools -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
 
-<h3 align="center">Repository Organizers</h3>
+<h3 align="center">Development Portfolio</h3>
 
-[.NET Organizer](https://github.com/users/Chessfull/projects/3/views/1)
+<div align="center">
 
-[Node.js Organizer](https://github.com/users/Chessfull/projects/5)
+### ⚡ [Backend Development | Node.js & NestJS](https://github.com/users/Chessfull/projects/3)
+*Modern JavaScript/TypeScript backend development with scalable APIs and real-time systems*
 
-[Frontend Organizer](https://github.com/users/Chessfull/projects/4/views/1)
+### 🔧 [Backend Development | .NET Ecosystem](https://github.com/users/Chessfull/projects/3)
+*Enterprise-grade applications, Web APIs, microservices architecture*
+
+### 🎨 [Frontend Development | React & Next.js](https://github.com/users/Chessfull/projects/3)
+*Contemporary frontend development with TypeScript and modern UI/UX*
+
+### 🎓 [Professional Growth | Bootcamp & Learning Journey](https://github.com/users/Chessfull/projects/3)
+*Structured learning through intensive bootcamps and continuous skill development*
+
+</div>
+
+---
 
 <!-- Contact information part  -->
-### :incoming_envelope: Contact Information :incoming_envelope:
+### 📬 Contact Information
 
-For any questions or further information, please don't hesitate to contact me :pray:
+For any questions or further information, please don't hesitate to contact me 🙏
 
-Email: merttopcu.dev@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/mert-topcu/
+**Email:** merttopcu.dev@gmail.com  
+**LinkedIn:** [linkedin.com/in/mert-topcu](https://www.linkedin.com/in/mert-topcu/)
 
 Happy Coding ❤️
-
 
 <!--Github Api Statistics 
 
@@ -68,10 +83,10 @@ Happy Coding ❤️
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...

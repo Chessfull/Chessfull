@@ -4,7 +4,7 @@
 
 <!-- Bio  -->
 <p align="center">
-I’m a Full-Stack Developer who’s fully committed to mastering software architecture and philosophy as comprehensively as possible. 💻
+            As a full-stack developer, I'm fully committed to learning software architecture and philosophy in the most comprehensive way possible 💻
 </p>
 
 <p align="center">
@@ -46,10 +46,10 @@ I’m a Full-Stack Developer who’s fully committed to mastering software archi
 
 <div align="center">
 
-### ⚡ [Backend Development | Node.js & NestJS](https://github.com/users/Chessfull/projects/5)
+### 🌐 [Backend Development | Node.js & NestJS](https://github.com/users/Chessfull/projects/5)
 *Modern JavaScript/TypeScript backend development with scalable APIs and real-time systems*
 
-### 🔧 [Backend Development | .NET Ecosystem](https://github.com/users/Chessfull/projects/3)
+### 🏢 [Backend Development | .NET Ecosystem](https://github.com/users/Chessfull/projects/3)
 *Enterprise-grade applications, Web APIs, microservices architecture*
 
 ### 🎨 [Frontend Development | React & Next.js](https://github.com/users/Chessfull/projects/4)

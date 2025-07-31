@@ -4,7 +4,7 @@
 
 <!-- Bio  -->
 <p align="center">
-I’m a Full-Stack Developer who’s fully committed to mastering software architecture and philosophy as comprehensively as possible. 💻
+Full-Stack Developer who’s fully committed to mastering software architecture and philosophy as comprehensively as possible. 💻
 </p>
 
 <p align="center">

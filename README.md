@@ -46,11 +46,11 @@ Full-Stack Developer who’s fully committed to mastering software architecture 
 
 <div align="center">
 
+### 🏢 [Backend Development | .NET Ecosystem](https://github.com/users/Chessfull/projects/3)
+*Enterprise-grade applications, Web APIs, microservices, event-driven architectures*
+
 ### 🌐 [Backend Development | Node.js & NestJS](https://github.com/users/Chessfull/projects/5)
 *Modern JavaScript/TypeScript backend development with scalable APIs and real-time systems*
-
-### 🏢 [Backend Development | .NET Ecosystem](https://github.com/users/Chessfull/projects/3)
-*Enterprise-grade applications, Web APIs, microservices architecture*
 
 ### 🎨 [Frontend Development | React & Next.js](https://github.com/users/Chessfull/projects/4)
 *Contemporary frontend development with TypeScript and modern UI/UX*
